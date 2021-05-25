@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently studying Information Systems in Binus University with a focus on Business Intelligence and Data Analytics 📈
 - ⚡ I'm really passionate about web development, and currently expanding to fullstack development 🥞
-- 📫 How to reach me: contact@awesa.xyz 📧
+- 📫 How to reach me: 
+  - 📧 contact@awesa.xyz
+  - 🤝 Find me on [LinkedIn](https://www.linkedin.com/in/atyantaawesa/)
 
 ## Stats
 <img align="center" alt="deXOR0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deXOR0&show_icons=true&theme=radical" />
