@@ -39,6 +39,9 @@ Unsurprisingly, this also coincides with my programming language preference too.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png"></code>
