@@ -1,6 +1,6 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
-### Hi there 👋
+## Hi there 👋
 
 - 🌱 I’m currently studying Information Systems in Binus University with a focus on Business Intelligence and Data Analytics 📈
 - ⚡ I'm really passionate about web development, and currently expanding to fullstack development 🥞
@@ -11,7 +11,7 @@
 ## Stats
 <img align="center" alt="deXOR0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deXOR0&show_icons=true&theme=radical" />
 
-## Programming Languages
+### Programming Languages
 <img align="center" alt="deXOR0's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deXOR0&layout=compact&theme=radical" />
 Unsurprisingly, this also coincides with my programming language preference too... 
 
