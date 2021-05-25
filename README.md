@@ -1,6 +1,5 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
-
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/mrvFkyjPe7">
   <img align="left" alt="ZeN's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -18,9 +17,12 @@
 
 - 🌱 I’m currently studying Information Systems in Binus University with a focus on Business Intelligence and Data Analytics 📈
 - ⚡ I'm really passionate about web development, and currently expanding to fullstack development 🥞
-- 📫 How to reach me: contact@awesa.xyz 📧
+- 💬 Ask me about web development, python, data analytics, linux!
+- 📫 How to reach me: contact@awesa.xyz
 
 ## Stats
+
+### Github Stat
 <img align="center" alt="deXOR0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deXOR0&show_icons=true&theme=radical" />
 
 ### Programming Languages Stat
@@ -32,7 +34,7 @@ Unsurprisingly, this also coincides with my programming language preference too.
   Python for the win!
 </div>
 
-### Language and Tools
+## Language and Tools
 <code><img height="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
