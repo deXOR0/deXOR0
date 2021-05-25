@@ -1,12 +1,24 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/mrvFkyjPe7">
+  <img align="left" alt="ZeN's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.instagram.com/atyantaawesa/">
+  <img align="left" alt="Atyanta Awesa | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />
+</a>
+<a href="https://www.linkedin.com/in/atyantaawesa/">
+  <img align="left" alt="Atyanta Awesa's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/tqbrs5d72qa91nxjimg29iude?si=f3605802ecf04546">
+  <img align="left" alt="Awesa's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<br/>
+<br/>
 
 - 🌱 I’m currently studying Information Systems in Binus University with a focus on Business Intelligence and Data Analytics 📈
 - ⚡ I'm really passionate about web development, and currently expanding to fullstack development 🥞
-- 📫 How to reach me: 
-  - 📧 contact@awesa.xyz
-  - 🤝 Find me on [LinkedIn](https://www.linkedin.com/in/atyantaawesa/)
+- 📫 How to reach me: contact@awesa.xyz 📧
 
 ## Stats
 <img align="center" alt="deXOR0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deXOR0&show_icons=true&theme=radical" />
