@@ -30,7 +30,7 @@
 Unsurprisingly, this also coincides with my programming language preference too... 
 
 <div>
-  <img align="left" alt="ZeN's Discord" width="22px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
+  <img align="left" alt="Python!" width="22px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
   Python for the win!
 </div>
 
