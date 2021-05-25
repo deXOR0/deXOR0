@@ -1,6 +1,6 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/mrvFkyjPe7">
   <img align="left" alt="ZeN's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -23,16 +23,32 @@
 ## Stats
 <img align="center" alt="deXOR0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deXOR0&show_icons=true&theme=radical" />
 
-### Programming Languages
+### Programming Languages Stat
 <img align="center" alt="deXOR0's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deXOR0&layout=compact&theme=radical" />
 Unsurprisingly, this also coincides with my programming language preference too... 
 
-[![forthebadge python-for-the-win](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+<div>
+  <img align="left" alt="ZeN's Discord" width="22px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
+  Python for the win!
+</div>
+
+### Language and Tools
+<code><img height="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <details>
   <summary>Credits</summary>
   
-  Yes, I totally rip this off from [AsterinGray](https://github.com/AsterinGray) ✌️
+  Yes, I totally rip this idea off from [AsterinGray](https://github.com/AsterinGray) ✌️
   
 </details>
 
