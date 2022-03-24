@@ -10,7 +10,7 @@
   <img align="left" alt="Atyanta Awesa's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/tqbrs5d72qa91nxjimg29iude?si=f3605802ecf04546">
-  <img align="left" alt="Awesa's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Awesa's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg/spotify.svg" />
 </a>
 <br/>
 <br/>
