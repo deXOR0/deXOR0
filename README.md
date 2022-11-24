@@ -16,7 +16,7 @@
 <br/>
 
 - 🌱 I’m currently studying Information Systems in Binus University with a focus on Business Intelligence and Data Analytics 📈
-- 🍎 iOS Developer @ Apple Developer Academy
+- 🍎 Software Developer @ Apple Developer Academy
 - ⚡ I'm really passionate about web development, and currently expanding to fullstack development 🥞
 - 💬 Ask me about web development, python, data analytics, linux!
 - 📫 How to reach me: contact@awesa.xyz
