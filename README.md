@@ -55,8 +55,7 @@ Unsurprisingly, this also coincides with my programming language preference too.
 <code><img height="20" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png
-"></code>
+<code><img height="20" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"></code>
 
 <details>
   <summary>Credits</summary>
