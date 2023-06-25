@@ -15,8 +15,9 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently studying Information Systems in Binus University with a focus on Business Intelligence and Data Analytics 📈
-- 🍎 Software Developer @ Apple Developer Academy
+- 🌱 Graduated from Binus University, with a bachelor's degree in Information Systems with a focus on Business Intelligence and Data Analytics 📈
+- 🏦 BDP IT Trainee @ Bank Central Asia
+- 🍎 Apple Developer Academy Graduate
 - ⚡ I'm really passionate about web development, and currently expanding to fullstack development 🥞
 - 💬 Ask me about web development, python, data analytics, linux!
 - 📫 How to reach me: contact@awesa.xyz
