@@ -1,13 +1,13 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/mrvFkyjPe7">
-  <img align="left" alt="ZeN's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="ZeN's Discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-7A1EC3216C-seeklogo.com.png" />
 </a>
 <a href="https://www.instagram.com/atyantaawesa/">
   <img align="left" alt="Atyanta Awesa | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />
 </a>
 <a href="https://www.linkedin.com/in/atyantaawesa/">
-  <img align="left" alt="Atyanta Awesa's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Atyanta Awesa's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://open.spotify.com/user/tqbrs5d72qa91nxjimg29iude?si=f3605802ecf04546">
   <img align="left" alt="Awesa's Spotify" width="22px" src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png?v=637903118310000000" />
