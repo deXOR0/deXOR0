@@ -20,7 +20,7 @@
 - 🍎 Apple Developer Academy Graduate
 - ⚡ I'm really passionate about web development, and currently expanding to fullstack development 🥞
 - 💬 Ask me about web development, python, data analytics, linux!
-- 📫 How to reach me: contact@awesa.xyz
+- 📫 How to reach me: contact@awesa.space
 
 ## Stats
 
