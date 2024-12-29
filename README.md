@@ -15,9 +15,10 @@
 <br/>
 <br/>
 
-- 🌱 Graduated from Binus University, with a bachelor's degree in Information Systems with a focus on Business Intelligence and Data Analytics 📈
-- 🏦 BDP IT Trainee @ Bank Central Asia
+- 🏦 Senior Application Developer @ BCA
+- 🎖️ BCA Development Program IT Graduate
 - 🍎 Apple Developer Academy Graduate
+- 🌱 Graduated from Binus University, with a bachelor's degree in Information Systems with a focus on Business Intelligence and Data Analytics 📈
 - ⚡ I'm really passionate about web development, and currently expanding to fullstack development 🥞
 - 💬 Ask me about web development, python, data analytics, linux!
 - 📫 How to reach me: contact@awesa.space
